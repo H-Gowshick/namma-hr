@@ -1,0 +1,3 @@
+# Local PDF indexing only. Do not install this on the web service.
+-r requirements.txt
+easyocr==1.7.2

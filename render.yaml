@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: namma-hr-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt && python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT --workers 1
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      - key: HF_HOME
+        value: ./model_cache
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GNANI_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-20b
+      - key: GROQ_FALLBACK_MODELS
+        value: openai/gpt-oss-120b
+      - key: CORS_ORIGINS
+        sync: false

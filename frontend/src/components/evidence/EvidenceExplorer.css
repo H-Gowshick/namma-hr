@@ -1,0 +1,231 @@
+.evidence-explorer {
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  background:linear-gradient(180deg, #0f172a05, transparent 42%), var(--bg-muted);
+  box-shadow:var(--shadow-sm);
+  margin-top:16px;
+  padding:14px 14px 12px;
+  animation:.35s both evidence-in
+}
+
+.evidence-explorer-header {
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:12px;
+  margin-bottom:12px;
+  display:flex
+}
+
+.evidence-explorer-heading {
+  flex-direction:column;
+  gap:2px;
+  min-width:0;
+  display:flex
+}
+
+.evidence-explorer-kicker {
+  color:var(--accent);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  font-size:11px;
+  font-weight:700
+}
+
+.evidence-explorer-heading h3 {
+  color:var(--text-h);
+  letter-spacing:-.02em;
+  margin:0;
+  font-size:14px;
+  font-weight:650;
+  line-height:1.35
+}
+
+.evidence-count {
+  border:1px solid var(--accent-border);
+  border-radius:var(--radius-pill);
+  background:var(--accent-bg);
+  min-height:28px;
+  color:var(--accent-strong);
+  white-space:nowrap;
+  flex:none;
+  padding:4px 10px;
+  font-size:11px;
+  font-weight:650
+}
+
+.evidence-empty {
+  border:1px dashed var(--border-strong);
+  background:var(--bg-elevated);
+  color:var(--text-soft);
+  border-radius:12px;
+  margin:0;
+  padding:12px 14px;
+  font-size:13px;
+  line-height:1.5
+}
+
+.evidence-card-list {
+  flex-direction:column;
+  gap:10px;
+  display:flex
+}
+
+.evidence-card {
+  border:1px solid var(--border);
+  background:var(--bg-elevated);
+  border-radius:12px;
+  transition:border-color .2s,box-shadow .2s,transform .2s;
+  overflow:hidden
+}
+
+.evidence-card.is-expanded {
+  border-color:var(--accent-border);
+  box-shadow:0 8px 24px #0f172a0f
+}
+
+.evidence-card-header {
+  width:100%;
+  color:inherit;
+  text-align:left;
+  cursor:pointer;
+  background:0 0;
+  border:0;
+  grid-template-columns:34px minmax(0,1fr) 20px;
+  align-items:center;
+  gap:10px;
+  padding:12px 12px 8px;
+  display:grid
+}
+
+.evidence-card-header:hover .evidence-card-title {
+  color:var(--accent-strong)
+}
+
+.evidence-card-icon {
+  width:34px;
+  height:34px;
+  color:var(--accent);
+  background:var(--accent-bg);
+  border:1px solid var(--accent-border);
+  border-radius:10px;
+  justify-content:center;
+  align-items:center;
+  display:inline-flex
+}
+
+.evidence-card-meta {
+  flex-direction:column;
+  gap:2px;
+  min-width:0;
+  display:flex
+}
+
+.evidence-card-title {
+  color:var(--text-h);
+  letter-spacing:-.01em;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size:13px;
+  font-weight:650;
+  transition:color .15s;
+  overflow:hidden
+}
+
+.evidence-card-sub {
+  color:var(--text-soft);
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size:12px;
+  line-height:1.35;
+  overflow:hidden
+}
+
+.evidence-card-chevron {
+  color:var(--text-soft)
+}
+
+.evidence-card-preview {
+  color:var(--text);
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  margin:0 12px 12px 56px;
+  font-size:12.5px;
+  line-height:1.5;
+  display:-webkit-box;
+  overflow:hidden
+}
+
+.evidence-card-panel {
+  padding:0 12px 12px;
+  animation:.22s both evidence-panel-in
+}
+
+.evidence-passage {
+  border-left:3px solid var(--accent-soft);
+  background:var(--bg-muted);
+  color:var(--text-h);
+  white-space:pre-wrap;
+  overflow-wrap:anywhere;
+  border-radius:0 10px 10px 0;
+  margin:0 0 12px;
+  padding:12px 14px;
+  font-size:13px;
+  line-height:1.6
+}
+
+.evidence-mark {
+  color:inherit;
+  background:#4f46e529;
+  border-radius:3px;
+  padding:0 2px
+}
+
+.evidence-card-actions {
+  align-items:center;
+  gap:8px;
+  padding-left:4px;
+  display:flex
+}
+
+.evidence-open-link {
+  border:1px solid var(--border-strong);
+  border-radius:var(--radius-pill);
+  background:var(--bg-elevated);
+  min-height:30px;
+  color:var(--text-h);
+  align-items:center;
+  gap:6px;
+  padding:0 10px;
+  font-size:12px;
+  font-weight:600;
+  text-decoration:none;
+  transition:background .15s,border-color .15s,color .15s;
+  display:inline-flex
+}
+
+.evidence-open-link:hover {
+  border-color:var(--accent-border);
+  background:var(--accent-bg);
+  color:var(--accent-strong)
+}
+
+.evidence-open-missing {
+  color:var(--text-soft);
+  font-size:12px
+}
+
+@media (prefers-reduced-motion:reduce) {
+  .evidence-explorer,.evidence-card-panel {
+    animation:none
+  }
+}
+
+@media (width<=720px) {
+  .evidence-explorer {
+    padding:12px
+  }
+
+  .evidence-card-preview {
+    margin-left:12px
+  }
+}

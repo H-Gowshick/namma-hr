@@ -1,0 +1,3381 @@
+{
+  "source_pdf": "HR_POLICY.pdf",
+  "summary": {
+    "cases": 90,
+    "retrieval_correct": 90,
+    "answers_scored": 60,
+    "answer_language_correct": 60,
+    "answer_factually_correct": 56,
+    "citations_correct": 60,
+    "facts_scored": 60,
+    "citations_scored": 60,
+    "answers_failed": 30
+  },
+  "cases": [
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "How many casual leave days is an employee entitled to in a year?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": false,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "The available policy documents do not specify a fixed annual number of **Casual Leave** days for an employee. Instead, they describe the following limits:\n\n* **Minimum and maximum per leave request** – Casual Leave can be taken for a minimum of 0.5 day and a maximum of 3 days at a time. If more than 3 days are needed, the employee must use Earned/Privileged Leave. (Source: *HR_POLICY.pdf*, page 2)  \n* **Monthly limit** – Casual Leave may be taken for up to 3 days in a month, with prior permission required. (Source: *HR_POLICY.pdf*, page 1)  \n* **Carry‑forward & encashment** – Unused Casual Leave lapses automatically at year‑end; it cannot be carried forward or encashed. (Source: *HR_POLICY.pdf*, page 2)\n\nBecause the documents do not state an overall yearly entitlement, the exact number of Casual Leave days an employee receives per calendar year cannot be determined from the provided evidence. If you need a precise annual entitlement, you may need to refer to a more detailed section of the company’s leave policy or contact the HR department directly."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "एक साल में कर्मचारी को कितने दिन की कैजुअल लीव मिलती है?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "कर्मचारी को **7 दिन की Casual Leave** वार्षिक रूप से दी जाती है।  \n\n- यह 7 दिन की वार्षिक एंटाइटलमेंट *HR_POLICY.pdf* के पेज 1 में “Casual Leave ( 7 ‑CL )” के रूप में उल्लेखित है।  \n- Casual Leave को अधिकतम **प्रति माह 3 दिन** तक लिया जा सकता है, और 3 दिन से अधिक की छुट्टी Earned/Privileged Leave के रूप में लेनी पड़ती है — *HR_POLICY.pdf* पेज 2.  \n- साल के अंत में未 उपयोगी Casual Leave **ऑटोमैटिकली लॅप्स** हो जाती है; कोई कैरी‑फ़ॉरवर्ड या एन्कैशमेंट नहीं है — *HR_POLICY.pdf* पेज 2.  \n\nनए जुड़ने वाले या बीच में इस्तीफा देने वाले कर्मचारियों के लिए Casual Leave **प्रो‑राटा** आधार पर गणना की जाएगी।  \n\nइस प्रकार, एक कैलेंडर वर्ष में आपको कुल 7 दिन की Casual Leave मिलती है।"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "ஒரு வருடத்திற்கு எத்தனை நாள் கேஷுவல் லீவ் கிடைக்கும்?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": false,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "விரிவான ஆண்டு‑தொகை (Annual entitlement) குறித்துச் சொல்வதற்கான தெளிவான எண் கொடுக்கப்படவில்லை. கொள்கை பின்வரும் விபரங்களை மட்டும் குறிப்பிடுகிறது:\n\n* **Casual Leave** எடுத்துக்கொள்ளக் கூடிய குறைந்தபட்சம் 0.5 நாள், அதிகபட்சம் 3 நாட்கள் ஒன்றாக (ஒரு முறையில்).  \n* ஒரு மாதத்திற்கு **Casual Leave** அதிகபட்சம் 3 நாட்கள் மட்டுமே பெறலாம்; இதை மீறியால் Earned அல்லது Privileged Leave என்ற பிற விடுப்பாகக் கருத வேண்டும்.  \n* ஆண்டு இறுதியில் பயன்படுத்தாத **Casual Leave** மீளாமல் (lapse) அழிக்கப்படும்; **carry‑forward** அல்லது **encashment** இல்லை.  \n\n(மூலம்: **HR_POLICY.pdf**, பக்கம் 2 – “Casual Leave can be taken for minimum 0.5 to maximum 3 days…”, “There are no casual leave carry‑forwards…”; மற்றும் **HR_POLICY.pdf**, பக்கம் 1 – “Casual leave can be obtained strictly maximum to 3 days in a month.”)\n\nஅதனால், ஒவ்வொரு ஆண்டிற்கும் வழங்கப்படும் **Casual Leave** எண்ணிக்கை பற்றிய குறிப்பிட்ட எண் (எ.கா., 12 நாள், 15 நாள்) பொதி அதிகாரப்பூர்வமாக வழங்கப்படவில்லை; மாதாந்திர மிகை (3 நாட்கள்) மேலும், பயன்படுத்தப்படாத விடுப்பு ஆண்டின் முடிவில் அழிக்கப்படும் என்பது மட்டுமே குறிப்பிடப்பட்டுள்ளது."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "ఒక సంవత్సరానికి ఎన్ని రోజుల క్యాజువల్ లీవ్ హక్కు ఉంటుంది?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "సాధారణంగా, ఉద్యోగులకు **సంవత్సరానికి 7 రోజులు Casual Leave** (CL) హక్కు ఉంటుంది. కొత్తగా చేరిన వారు లేదా మధ్యలో రాజీనామా చేసే వారు, పని చేసిన కాలానికి అనుగుణంగా (Pro‑rata) లీవ్ పరిమాణం లెక్కించబడుతుంది【HR_POLICY.pdf, page 1】.  \n\n- Casual Leave‌ను ఒక్కసారి **0.5 రోజు కు కనిష్టం, గరిష్టం 3 రోజులు** తీసుకోవచ్చు.  \n- సంవత్సరం ముగింపులో మిగిలిన Casual Leave **ల్యాప్‌సు** అవుతుంది; క్యారీఫార్వర్డ్ లేదా ఎన్‌కాష్‌మెంట్ అందించబడదు【HR_POLICY.pdf, page 2】."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "ಒಂದು ವರ್ಷಕ್ಕೆ ಎಷ್ಟು ದಿನ ಕ್ಯಾಶುವಲ್ ಲೀವ್ ಸಿಗುತ್ತದೆ?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ಪ್ರತಿ ವರ್ಷಕ್ಕೆ **7 ದಿನಗಳ Casual Leave** ನಿಮಗೆ ಲಭ್ಯವಿರುತ್ತದೆ. ಇದನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಾಗ ಪ್ರತಿ ತಿಂಗಳಲ್ಲೂ **ಗರಿಷ್ಟ 3 ದಿನಗಳು** ಮಾತ್ರ ಅನುಮತಿಸಲಾಗುತ್ತದೆ.  \n\n**ಮೂಲ:** HR_POLICY.pdf, ಪುಟ 1 (General ವಿಭಾಗ)."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "ഒരു വർഷത്തിൽ എത്ര ദിവസം കാഷ്വൽ ലീവ് ലഭിക്കും?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": false,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "വർഷത്തിൽ ലഭിക്കുന്ന **കാഷ്വൽ ലീവ്** ദിവസങ്ങളുടെ എണ്ണം സംബന്ധിച്ച്, ലഭ്യമായ പോളിസി രേഖകളിൽ (HR_POLICY.pdf പേജ് 1, 2 മറയും) പ്രത്യേകമായി വ്യക്തമാക്കിയിട്ടില്ല. അതിനാൽ, ഈ വിവരത്തെക്കുറിച്ച് നിലവിലെ ഡോക്യുമെന്റുകളിൽ കണ്ടെത്താനായിട്ടില്ലെന്ന് അറിയിക്കുന്നു. (ഉദാ.: **HR_POLICY.pdf – പേജ് 2** എന്നിവയില്‍ കാഷ്വൽ ലീവിന്റെ **മിനിമം 0.5 ദിവസം, മാക്സിമം 3 ദിവസം** എന്നതും, മാസംപ്രതി പരമാവധി 3 ദിവസം എന്നതും മാത്രമാണ് രേഖപ്പെടുത്തിയിരിക്കുന്നത്, വാർഷിക entitlement‑നെക്കുറിച്ചുള്ള വിവരമില്ല.)"
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "এক বছরে কতদিন ক্যাজুয়াল ছুটি পাওয়া যায়?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "প্রশ্নে উল্লেখিত “এক বছরে কতদিন ক্যাজুয়াল ছুটি পাওয়া যায়?” সম্পর্কে আমাদের কাছে থাকা নীতি নথিগুলিতে সরাসরি কোনও বার্ষিক ছুটির সংখ্যা উল্লেখ করা নেই। তবে নথিতে নিম্নলিখিত সীমাবদ্ধতাগুলি দেওয়া আছে:\n\n- ক্যাজুয়াল ছুটি **নূন্যতম 0.5 দিন থেকে সর্বোচ্চ 3 দিন** পর্যন্ত একবারে নেওয়া যায়।【HR_POLICY.pdf, পৃষ্ঠা 2】\n- ক্যাজুয়াল ছুটি **এক মাসে সর্বোচ্চ 3 দিন** পর্যন্ত নেওয়া যায়।【HR_POLICY.pdf, পৃষ্ঠা 1】\n- ক্যাজুয়াল ছুটির কোন ক্যারি‑ফরওয়ার্ড বা এনক্যাশমেন্ট নেই; অব্যবহৃত ছুটি বছর শেষে স্বয়ংক্রিয়ভাবে মেয়াদ শেষ হয়।【HR_POLICY.pdf, পৃষ্ঠা 2】\n\nএখন পর্যন্ত পাওয়া নথিতে বার্ষিক মোট ক্যাজুয়াল ছুটির সংখ্যা (যেমন “প্রতি বছর 7 দিন” ইত্যাদি) স্পষ্টভাবে উল্লেখ করা হয়নি। যদি আপনার আরও বিশদ বা নির্দিষ্ট বার্ষিক সীমা জানতে চান, তবে HR বিভাগে সরাসরি অনুসন্ধান করা উচিৎ।"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "एका वर्षात किती दिवस कॅज्युअल रजा मिळते?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "कॅज्युअल रजा ( CL ) साठी वार्षिक **७ दिवस** दिले जातात.  \n- प्रत्येक महिन्यात जास्तीत जास्त **३ दिवस** कॅज्युअल रजा घेता येते.  \n- नवीन भरती किंवा वर्षाच्या मध्यभागी सामील होणाऱ्या कर्मचाऱ्यांसाठी हे रजेचे दिवस **प्रो‑राटा** (पणी काम केलेल्या कालावधीच्या अनुपाताने) दिले जातात.  \n- वापरलेली न झालेली कॅज्युअल रजा वर्षाच्या अखेरीस लॅप्स होते आणि कोणताही कॅज्युअल रजा कॅरिफॉरवर्ड किंवा एन्कॅशमेंट होत नाही.  \n\n**स्रोत:**  \n- *HR_POLICY.pdf*, पृष्ठ 1 – “Casual Leave ( 7 ‑CL )” आणि “Casual leave can be obtained strictly maximum to 3 days in a month.”  \n- *HR_POLICY.pdf*, पृष्ठ 2 – कॅज्युअल रजा प्रो‑राटा आणि लॅप्स होण्याची माहिती."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "casual_entitlement",
+      "title": "Casual leave entitlement",
+      "question": "એક વર્ષમાં કેટલા દિવસની કેઝ્યુઅલ રજા મળે છે?",
+      "expected_facts": "Casual leave is 7 days in a calendar year. It can be taken from 0.5 day to 3 days. Unused casual leave lapses and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": false,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "પ્રશ્નમાં જણાવેલી કેઝ્યુઅલ રજા વિશે ઉપલબ્ધ નીતિ દસ્તાવેજોમાં વર્ષભરના ચોક્કસ દિવસોની સંખ્યા નક્કી કરવામાં આવી નથી. દસ્તાવેજોમાં દર્શાવેલ મુખ્ય મુદ્દાઓ આ મુજબ છે:\n\n- કેઝ્યુઅલ રજા **મિનિમમ 0.5 દિવસ થી મૅક્સિમમ 3 દિવસ** સુધી લેવાઈ શકે છે【HR_POLICY.pdf, page 2】.  \n- કેઝ્યુઅલ રજા માટે **માસિક મહત્તમ 3 દિવસ**ની મર્યાદા છે【HR_POLICY.pdf, page 1】.  \n- કેઝ્યુઅલ રજા **વર્ષના અંતે કૅરી‑ફોરવર્ડ અથવા એન્કેશેબલ** નથી; બાકી રહેલી રજા આપમેળે સમાપ્ત થાય છે【HR_POLICY.pdf, page 2】.  \n- નવા જોડાયેલ કર્મચારીઓ અથવા રાજીનામું આપનારાઓ માટે કેઝ્યુઅલ રજા **પ્રો‑રેટા** (કાર્ય સમયાનુસાર) આપવામાં આવે છે【HR_POLICY.pdf, page 2】.\n\nઅેથી, હાલ ઉપલબ્ધ નીતિ દસ્તાવેજોમાં વર્ષ માટે નક્કી કરેલી કુલ કેઝ્યુઅલ રજા દિવસોની માહિતી ઉપલબ્ધ નથી. જો તમને વર્ષ માટેની કુલ દિવસસંખ્યા અંગે સ્પષ્ટતા જોઈએ તો HR વિભાગને સીધા સંપર્ક કરો."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "What is the maximum casual leave that can be taken in one month?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "The policy states that **the maximum amount of Casual Leave you can take in a single month is 3 days**.\n\n**Citations**\n- *HR_POLICY.pdf*, page 1 – “Casual leave can be obtained strictly maximum to 3 days in a month.”  \n- *HR_POLICY.pdf*, page 2 – “Casual Leave can be taken for … maximum 3 days. In case of more than 3 days leave, it should be taken as Earned/Privileged Leave.”"
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "एक महीने में अधिकतम कितने दिन कैजुअल लीव ली जा सकती है?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "एक महीने में अधिकतम **3 दिन** तक ही कैजुअल लीव (Casual Leave) ली जा सकती है।  \n\n- यह नियम **HR_POLICY.pdf – पृष्ठ 2** के “General” सेक्शन में बताया गया है कि “Casual Leave can be taken for minimum 0.5 to maximum 3 days”【Document 1】।  \n- उसी तरह **HR_POLICY.pdf – पृष्ठ 1** में कहा गया है कि “Casual leave can be obtained strictly maximum to 3 days in a month”【Document 4】।  \n\nइसलिए, किसी भी माह में आप अधिकतम 3 दिन की कैजुअल लीव ले सकते हैं।"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "ஒரு மாதத்தில் கேஷுவல் லீவ் அதிகபட்சம் எத்தனை நாள் எடுக்கலாம்?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ஒரு மாதத்தில் **Casual Leave**‑இன் அதிகபட்சம் **3 நாட்கள்** தான் எடுத்துக்கொள்ளலாம்.  \n\n- இதை **HR_POLICY.pdf**, பக்கம் 2 (General, Casual Leave) மற்றும் **HR_POLICY.pdf**, பக்கம் 1 (General, Types of leaves) ஆகியவற்றில் குறிப்பிடப்பட்டுள்ளது."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "ఒక నెలలో గరిష్టంగా ఎన్ని రోజుల క్యాజువల్ లీవ్ తీసుకోవచ్చు?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ఒక నెలలో **గరిష్టంగా 3 రోజులు** క్యాజువల్ Leave తీసుకోవచ్చు.  \n\n**మూలాలు**  \n- *HR_POLICY.pdf*, పేజీ 2 – “Casual Leave can be taken for minimum 0.5 to maximum 3 days…”.  \n- *HR_POLICY.pdf*, పేజీ 1 – “Casual leave can be obtained strictly maximum to 3 days in a month.”"
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "ಒಂದು ತಿಂಗಳಿಗೆ ಗರಿಷ್ಠ ಎಷ್ಟು ದಿನ ಕ್ಯಾಶುವಲ್ ಲೀವ್ ತೆಗೆದುಕೊಳ್ಳಬಹುದು?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**ಗರಿಷ್ಟವಾಗಿ ಒಂದು ತಿಂಗಳಲ್ಲಿ 3 ದಿನಗಳಷ್ಟು Casual Leave ತೆಗೆದುಕೊಳ್ಳಬಹುದು.**  \n\n- ಇದನ್ನು ಮೀರಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕೆಂದರೆ Earned Leave ಅಥವಾ Privileged Leave ಮೂಲಕ ವಿನಂತಿ ಮಾಡಬೇಕು【HR_POLICY.pdf, page 2】.  \n- ಮತ್ತೊಂದು ವಿಭಾಗವೂ ಇದನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ: “Casual leave can be obtained strictly maximum to 3 days in a month.”【HR_POLICY.pdf, page 1】."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "ഒരു മാസത്തിൽ പരമാവധി എത്ര ദിവസം കാഷ്വൽ ലീവ് എടുക്കാം?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ഒരു മാസം **Casual Leave** എടുക്കാനാകുന്ന പരമാവധി **3 ദിവസം** ആണ്. 3 ദിനത്തെ കവിയുന്ന കാലയളവിന് Earned അല്ലെങ്കിൽ Privileged Leave ആക്കേണ്ടതുണ്ട് (സ്രോതസുകൾ: *HR_POLICY.pdf* പേജ് 2, പേജ് 1)."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "এক মাসে সর্বোচ্চ কতদিন ক্যাজুয়াল ছুটি নেওয়া যায়?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "এক মাসে ক্যাজুয়াল ছুটি (Casual Leave) সর্বোচ্চ **৩ দিন** নেওয়া যায়।\n\n- উৎস: *HR_POLICY.pdf*, পৃষ্ঠা ২ (General বিভাগ) – “Casual leave can be obtained strictly maximum to 3 days in a month.”  \n- একই তথ্য পৃষ্ঠা ২‑এর অন্য অংশেও উল্লেখ আছে: “Casual Leave can be taken … maximum 3 days.”"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "एका महिन्यात जास्तीत जास्त किती दिवस कॅज्युअल रजा घेता येते?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- एका महिन्यात **Casual Leave** चे जास्तीत जास्त मर्यादा **3 दिवस** आहे【HR_POLICY.pdf, पृष्ठ 1】. (ही मर्यादा दोन्ही दस्तऐवजांमध्ये (पृष्ठ 1 आणि पृष्ठ 2) नमूद केलेली आहे.)"
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "casual_monthly_limit",
+      "title": "Casual leave monthly limit",
+      "question": "એક મહિનામાં વધુમાં વધુ કેટલા દિવસની કેઝ્યુઅલ રજા લઈ શકાય?",
+      "expected_facts": "Casual leave is limited to a maximum of 3 days in a month. More than 3 days must be taken as earned or privileged leave.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1,
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "મહિનામાં **Casual Leave** નો મહત્તમ ઉપયોગ 3 દિવસ સુધી હોય છે (દસ્તાવેજ **HR_POLICY.pdf**, પૃ. 2 અને પૃ. 1)"
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "How many days of sick leave can an employee take?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "An employee may use **Sick Leave** for a minimum of **0.5 day** up to a maximum of **7 days** (paid) in a single instance.  \n\n- For new joiners or employees who have resigned, the Sick Leave entitlement is **pro‑rated** based on their start or exit date.【HR_POLICY.pdf, page 2】 (both Document 1 and Document 2 contain this same wording)."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "कर्मचारी कितने दिन की बीमार छुट्टी ले सकता है?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Sick Leave** (Medical Leave) को एक बार में कम से कम 0.5 दिन और अधिकतम 7 दिन तक ले जा सकता है (भुगतान के साथ)।  \n- 2‑3 दिन से अधिक की छुट्टी के लिए आमतौर पर डॉक्टर का सर्टिफ़िकेट लगाना ज़रूरी होता है।  \n\n*स्रोत: HR_POLICY.pdf, पृष्ठ 2*।"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "நோய் விடுப்பு எத்தனை நாள் எடுக்கலாம்?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Sick Leave** (Medical Leave) : குறைந்தது **0.5 நாள்** முதல் அதிகபட்சம் **7 நாள்கள்** (paid) வரை எடுக்கலாம்【HR_POLICY.pdf, PDF page 2】.  \n- 2 – 3 நாட்களுக்கு மேல் விடுப்பு எடுக்கும்போது, பொதுவாக **மருத்துவச் சான்றிதழ்** (medical certificate) சேர்க்கப்பட வேண்டும்【HR_POLICY.pdf, PDF page 2】.  \n- Sick Leave-ஐ **சேர்த்துக் கொண்டும்** Earned Leave-ஐ பயன்படுத்த முடியும், ஆனால் **கேரியர்‑ஃபோர்வர்டு** (carry‑forward) அல்லது **என்காஷ்மெண்ட்** (encashment) இல்லை; வருட முடிவில் மீதம் இருக்கும் Sick Leave தானாகவே கலைந்து விடும்【HR_POLICY.pdf, PDF page 2】."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "అనారోగ్య సెలవు ఎన్ని రోజులు తీసుకోవచ్చు?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Sick Leave** (సిక్ లీవ్) గురించి మీకు ఉన్న ప్రశ్నకు సమాధానం:\n\n- **కనీసం** 0.5 రోజు (అర్ధ రోజు) నుండి **గరిష్టంగా** 7 రోజుల వరకు (paid) Sick Leave తీసుకోవచ్చు【HR_POLICY.pdf, page 2】.  \n- 2 రోజులు లేదా 3 రోజులు (దీని ఖచ్చితమైన సంఖ్య పత్రంలో స్పష్టంగా లేదు) కంటే ఎక్కువ రోజులకు సాధారణంగా **మెడికల్ సర్టిఫికేట్** సమర్పించాలి【HR_POLICY.pdf, page 2】.  \n- కొత్తగా చేరిన లేదా రాజీనామా చేసిన ఉద్యోగులకు **ప్రో‑రేటెడ్** Sick Leave లభిస్తుంది【HR_POLICY.pdf, page 2】.  \n- ఉపయోగించని Sick Leave సంవత్సరం ముగిసే ముందు **క్యారీ‑ఫార్వర్డ్** లేదా **ఎన్కాష్‌మెంట్** చేయబడదు; అది స్వయంగా ల్యాప్ అవుతుంది【HR_POLICY.pdf, page 2】.  \n\nఇది మీకు సహాయకరంగా ఉంటుందని ఆశిస్తున్నాం!"
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "ಅನಾರೋಗ್ಯ ರಜೆ ಎಷ್ಟು ದಿನ ತೆಗೆದುಕೊಳ್ಳಬಹುದು?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Sick Leave** (ಅನಾರೋಗ್ಯ ರಜೆ) ಕುರಿತು ನಿಮ್ಮ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರ ಇಲ್ಲಿದೆ:\n\n- **ಕನಿಷ್ಟ ಅವಧಿ:** 0.5 ದಿನ  \n- **ಗರಿಷ್ಠ ಅವಧಿ:** 7 ದಿನ (ಪಾವತಿಯನ್ನು ಒಳಗೊಂಡು)  \n\n- ಹೊಸ ಸೇರಿದವರು ಹಾಗೂ ಸಂಸ್ಥೆಯಿಂದ ಹೊರಟಿರುವವರಿಗೆ **pro‑rated** Sick Leave ಲಭ್ಯವಿರುತ್ತದೆ.  \n- Sick Leave ಅನ್ನು **Earned Leave** ಜೊತೆ ಸೇರಿಸಬಹುದು.  \n- ವರ್ಷಾಂತ್ಯದಲ್ಲಿ ಉಳಿದ Sick Leave ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರದ್ದು ಆಗುತ್ತದೆ (carry‑forward ಇಲ್ಲ).  \n\n**ಉಲ್ಲೇಖಗಳು**\n\n- *HR_POLICY.pdf*, ಪುಟ 2, ವಿಭಾಗ General – “Sick Leave can be taken for minimum 0.5 to maximum 7 days (paid)… For new joiner & resigned employees one gets pro‑rated sick leave.”  \n\n- *HR_POLICY.pdf*, ಪುಟ 2, ವಿಭಾಗ General – “Sick Leave can be appended with Earned Leave.”"
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "അസുഖാവധി എത്ര ദിവസം എടുക്കാം?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Sick Leave** (പേയ്‌ഡ്) എടുക്കാൻ സാധിക്കുന്നത്:\n\n- **കുറഞ്ഞത് 0.5 ദിവസം** മുതൽ  \n- **അधिकം 7 ദിവസം** വരെ  \n\n(കുറിപ്പ്: 2 – 3 ദിവസം​കു മുകളിലുള്ള അഭാവങ്ങൾക്ക് സാധാരണയായി മെഡിക്കൽ സർട്ടിഫിക്കറ്റ് ആവശ്യമാണ്.)  \n\n*ഉൾക്കൊള്ളുന്ന ഉറവിടം:* **HR_POLICY.pdf**, പേജ് 2."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "অসুস্থতার ছুটি কতদিন নেওয়া যায়?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Sick Leave** সর্বনিম্ন 0.5 দিন এবং সর্বোচ্চ 7 দিন (বেতনসহ) পর্যন্ত নেওয়া যেতে পারে।  \n- ২ দিনের বেশি বা 3 দিনের বেশি অনুপস্থিতির জন্য সাধারণত মেডিকেল সার্টিফিকেট প্রদান করতে হয়।  \n- বছরের শেষে অব্যবহৃত Sick Leave স্বয়ংক্রিয়ভাবে মেয়াদ উত্তীর্ণ হয় এবং কোনো ক্যারি‑ফরোয়ার্ড বা এনক্যাশমেন্ট নেই।  \n\n**সূত্র:** HR_POLICY.pdf, পৃষ্ঠাঃ 2 (General সেকশন)।"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "रुग्ण रजा किती दिवस घेता येते?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**रुग्ण (Sick) रजा**:\n\n- **जास्तीत जास्त ७ दिवस** (भरणा मिळणारी) आणि **किमान ०.५ दिवस** घेता येते.  \n- **२‑३ दिवसांपेक्षा जास्त रजेसाठी सामान्यतः वैद्यकीय प्रमाणपत्र आवश्यक** असते.  \n- रजेसाठी **कॅरिअर‑फॉरवर्ड (carry‑forward) किंवा एन्कॅशमेंट** नाही; वर्षाच्या अखेरीस उरलेली रजा स्वयंचलितपणे समाप्त होते.  \n- नवीन भरती किंवा सोडून जाणाऱ्या कर्मचाऱ्यांसाठी **प्रो‑रेटेड (प्रमाणानुसार) Sick Leave** लागू होते.\n\n*स्रोत*: **HR_POLICY.pdf, पृष्ठ 2**."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "sick_entitlement",
+      "title": "Sick leave entitlement",
+      "question": "બીમારીની રજા કેટલા દિવસ લઈ શકાય?",
+      "expected_facts": "Sick leave is 7 paid days, from a minimum of 0.5 day to a maximum of 7 days. It does not carry forward and is not encashable.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Sick Leave** માટેની મુખ્ય માહિતી:\n\n- **લઘુત્તમ સમય:** 0.5 દિવસ (અડધી દિવસ)  \n- **અધિકતમ સમય:** 7 દિવસ (પૈડ)  \n\n(Source: *HR_POLICY.pdf*, page 2)\n\n> નોંધ: 2 દિવસ અથવા 3 દિવસથી વધુ ગેરહાજરી માટે સામાન્ય રીતે મેડિકલ સર્ટિફિકેટ રજૂ કરવું જરૂરી હોય છે. (Source: *HR_POLICY.pdf*, page 2)"
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "Can unused earned leave be carried forward, and what is the maximum?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- Yes, unused **Earned Leave** can be carried forward to the next calendar year.  \n- The carry‑forward is limited to a **maximum of 45 days** of Earned Leave.\n\n**Source:** *HR_POLICY.pdf*, page 3, General section."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "क्या बची हुई अर्जित छुट्टी आगे ले जाई जा सकती है, और अधिकतम कितने दिन?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "हां, यदि आप किसी कैलेंडर वर्ष में अपनी **Earned Leave** पूरी तरह उपयोग नहीं कर पाते हैं, तो आप उसे अगले कैलेंडर वर्ष में ले जा सकते हैं। ले जाने की अधिकतम सीमा **45 दिन** है।  \n\n**स्रोत:** *HR_POLICY.pdf*, पृष्ठ 3।"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "பயன்படுத்தாத ஈர்ன்ட் லீவை கேரி ஃபார்வேர்ட் செய்ய முடியுமா, அதிகபட்சம் எத்தனை நாள்?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ஆம், நீங்கள் ஒரு காலாண்டில் பயன்படுத்தாத **Earned Leave**‑ஐ அடுத்த காலாண்டுக்கு **கேரி‑ஃபார்வர்ட்** செய்யலாம்.  இந்தக் கேரி‑ஃபார்வர்ட்டின் **அதிகபட்சம் 45 நாட்கள்** வரை மட்டுமே அனுமதிக்கப்படுகிறது【HR_POLICY.pdf, பக்கம் 3】."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "ఉపయోగించని సంపాదిత సెలవును క్యారీ ఫార్వర్డ్ చేయవచ్చా, గరిష్టం ఎన్ని రోజులు?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "అవును, ఒక క్యాలెండర్ సంవత్సరంలో మీరు ఉపయోగించని **Earned Leave**ను తదుపరి సంవత్సరానికి తీసుకెళ్లుకోవచ్చు. క్యారీ‑ఫార్వర్డ్ చేయగల గరిష్ట పరిమితి **45 రోజులు** వరకు మాత్రమే.  \n\n**మూలం:** HR_POLICY.pdf – PDF పేజీ 3, సెక్షన్ General."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "ಬಳಸದ ಗಳಿಸಿದ ರಜೆಯನ್ನು ಕ್ಯಾರಿ ಫಾರ್ವರ್ಡ್ ಮಾಡಬಹುದೇ, ಗರಿಷ್ಠ ಎಷ್ಟು ದಿನ?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ಹೌದು, ನೀವು ಬಳಸದೇ ಉಳಿದ **Earned Leave** ಅನ್ನು ಮುಂದಿನ ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷಕ್ಕೆ ಕೇರಿಯ ಫಾರ್ವರ್ಡ್ ಮಾಡಬಹುದು. ಇದಕ್ಕೆ ಗರಿಷ್ಠ 45 ದಿನಗಳ ಮಿತಿಯಿದೆ.  \n\n*ಉಲ್ಲೇಖ: HR_POLICY.pdf, ಪೇಜ್ 3*"
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "ഉപയോഗിക്കാത്ത സമ്പാദ്യ അവധി ക്യാരി ഫോർവേഡ് ചെയ്യാമോ, പരമാവധി എത്ര ദിവസം?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **ഉപയോഗിക്കാത്ത Earned Leave**‑നെ അടുത്ത വർഷത്തിലേക്ക് **carry forward** ചെയ്യാം.  \n- അതിന്റെ **പരമാവധി** 45 ദിവസം വരെ മാത്രമാണ് അനുവദിക്കുന്നത്.  \n\n**ഉദ്ധരണം:** HR_POLICY.pdf, PDF പേജ് 3."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "অব্যবহৃত অর্জিত ছুটি কি আগে নিয়ে যাওয়া যায়, সর্বোচ্চ কতদিন?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "হ্যাঁ, যদি কোনো কর্মী একটি ক্যালেন্ডার বছরে তার সমস্ত **Earned Leave** ব্যবহার করতে না পারে, তবে সে অব্যবহৃত Earned Leave‑কে পরবর্তী ক্যালেন্ডার বছরে নিয়ে যেতে পারে। তবে এই ক্যারি‑ফরোয়ার্ডের সর্বোচ্চ সীমা **৪৫ দিন** পর্যন্তই অনুমোদিত।\n\n**সূত্র:** HR_POLICY.pdf, পৃষ্ঠা ৩।"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "न वापरलेली अर्जित रजा पुढे नेता येते का, आणि कमाल किती दिवस?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **होय**, जर एखादा कर्मचारी एका कॅलेंडर वर्षात आपली सर्व **Earned Leave** वापरू शकला नाही, तर तो न वापरलेला भाग पुढील कॅलेंडर वर्षाकडे नेऊ शकतो.  \n- **कमाल** नेऊ शकणाऱ्या दिवसांची मर्यादा **45 दिवस** आहे.  \n\n*(स्रोत: HR_POLICY.pdf, PDF page 3)*"
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "earned_carry_forward",
+      "title": "Earned leave carry-forward",
+      "question": "ન વાપરેલી કમાયેલ રજા આગળ લઈ જઈ શકાય, વધુમાં વધુ કેટલા દિવસ?",
+      "expected_facts": "Unused earned leave may be carried into the next calendar year, subject to a maximum of 45 days.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "કામમાં ન વાપરેલી Earned Leave (કમાયેલ રજા) ને આગામી કેલેન્ડર વર્ષમાં લઈ જવી શકાય છે, પરંતુ તે મહત્તમ **45 દિવસ** સુધી જ સીમિત છે【HR_POLICY.pdf, page 3】."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "How many weeks of maternity leave are provided?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Maternity leave entitlement**\n\n- **General entitlement** – Female employees are entitled to a maximum of **26 weeks (180 days) of paid maternity leave**.  \n  *Source: HR_POLICY.pdf, page 3 (General section)*\n\n- **If the employee already has two or more children** – The entitlement is reduced to **12 weeks of paid maternity leave**.  \n  *Source: HR_POLICY.pdf, page 3 (General section)* – both Document 1 and Document 2 contain this provision.\n\n- **Eligibility condition** – A woman worker qualifies for maternity benefit only if she has worked **at least 80 days** in the establishment during the 12 months prior to her expected delivery date.  \n  *Source: HR_POLICY.pdf, page 3 (General section, Document 2)*\n\n- **Special cases**  \n  - In case of miscarriage or medical termination of pregnancy, the employee is entitled to **six weeks of paid maternity leave**.  \n  - An additional **one month of paid leave** (or two weeks for a tubectomy) is provided for complications related to pregnancy, delivery, premature birth, miscarriage, or medical termination.  \n  *Source: HR_POLICY.pdf, page 3 (General section, Document 2)*\n\nThese are the maternity‑leave provisions documented in the company’s HR policy."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "प्रसूति अवकाश कितने हफ्ते का मिलता है?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Maternity Leave** के बारे में नीति में दिया गया है:\n\n- सामान्य तौर पर **महिला कर्मचारियों को अधिकतम 26 हफ़्ते (180 दिन) तक का Paid Maternity Leave** मिलता है।  \n  (स्रोत: *HR_POLICY.pdf*, पेज 3)  \n\n- इस 26 हफ़्ते में से **डिलीवरी के बाद के पहले 6 हफ़्ते** अवश्य ली जाने चाहिए।  \n\n- यदि कर्मचारी के पास पहले से दो या दो से अधिक बच्चे हैं, तो **केवल 12 हफ़्ते** का Maternity Leave ही दिया जाता है।  \n  (स्रोत: *HR_POLICY.pdf*, पेज 3)  \n\n- अतिरिक्त शर्त: **डिलीवरी की अनुमानित तिथि से पहले के 12 महीनों में कम से कम 80 दिन काम** किया होना चाहिए, तभी Maternity Benefit मिलती है।  \n  (स्रोत: *HR_POLICY.pdf*, पेज 3)  \n\nसंक्षेप में: **पहली या दो बच्चों तक के लिए 26 हफ़्ते (180 दिन) का Paid Maternity Leave**, और दो से अधिक बच्चों के लिए 12 हफ़्ते का Leave दिया जाता है।"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "மகப்பேறு விடுப்பு எத்தனை வாரங்கள் வழங்கப்படுகிறது?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- பெண் ஊழியர்கள் **அதிகபட்சம் 26 வாரங்கள் (180 நாட்கள்)** வரை **பணம் வழங்கப்படும் Maternity Leave** பெறுவர்【HR_POLICY.pdf, page 3】.  \n- அதில் **விற்பனைக்கு பிறகு 6 வாரங்கள்** கட்டாயமாக எடுத்துக் கொள்ள வேண்டும்.  \n- ஏற்கனவே **இரண்டு அல்லது அதற்கு மேற்பட்ட குழந்தைகள்** கொண்டவருக்கு **12 வாரங்கள்** மட்டுமே வழங்கப்படும்【HR_POLICY.pdf, page 3】."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "మాతృత్వ సెలవు ఎన్ని వారాలు ఇస్తారు?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Maternity Leave** (మాతృత్వ సెలవు) గురించి మీ ప్రశ్నకు సంబంధించిన విధానము:\n\n- సాధారణంగా, **female employees** కి **గరిష్టంగా 26 వారాలు (180 రోజులు) paid Maternity Leave** ఇవ్వబడుతుంది.  \n  *(సూచన: HR_POLICY.pdf, PDF page 3)*  \n\n- ఇప్పటికే **రెండు లేదా అంతకంటే ఎక్కువ పిల్లలు** ఉన్న మహిళలకు **12 వారాలు** మాత్రమే మాతృత్వ సెలవు ఇవ్వబడుతుంది.  \n  *(సూచన: HR_POLICY.pdf, PDF page 3)*  \n\n- **గర్భస్రావం (miscarriage) లేదా వైద్య కారణంగా గర్భం ముగిసినప్పుడు** — **6 వారాలు** paid Maternity Leave ఉంటుంది.  \n  *(సూచన: HR_POLICY.pdf, PDF page 3)*  \n\n- **గర్భధారణ, ప్రసవం, ముందస్తు జన్మ, గర్భస్రావం, వైద్య గర్భముట్టింపు లేదా ట్యూబెక్షన్** వంటి సంక్లిష్టతలున్నప్పుడు **అదనంగా 1 నెల** paid leave (ఈ సందర్భంలో 2 వారాలు) ఇవ్వబడుతుంది.  \n  *(సూచన: HR_POLICY.pdf, PDF page 3)*  \n\nఅందువల్ల, సాధారణంగా **26 వారాలు** paid Maternity Leave అందుబాటులో ఉంది, కానీ పై పేర్కొన్న పరిస్థితుల ఆధారంగా తగ్గింపులు లేదా అదనపు సెలవులు కూడా వర్తించవచ్చు."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "ಪ್ರಸೂತಿ ರಜೆ ಎಷ್ಟು ವಾರ ನೀಡಲಾಗುತ್ತದೆ?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "ಪ್ರಸೂತಿ ರಜೆ ಸಂಬಂಧಿಸಿದ ನೀತಿ ಮಾಹಿತಿ:\n\n- ಮಹಿಳಾ ಉದ್ಯೋಗಿಗಳು **ಗರಿಷ್ಠ 26 ವಾರಗಳು (180 ದಿನಗಳು) ಪೇಡ್ ಪ್ರಸೂತಿ ರಜೆ** ಪಡೆಯುತ್ತಾರೆ. ಇದರಲ್ಲಿ **ಜನ್ಮದ ನಂತರ ಕನಿಷ್ಟ ಆರು ವಾರಗಳು** ತೆಗೆದುಕೊಳ್ಳಬೇಕಾಗಿದೆ【HR_POLICY.pdf, page 3】.  \n- ಈಗಾಗಲೇ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಮಕ್ಕಳನ್ನು ಹೊಂದಿರುವ ಮಹಿಳೆಯರಿಗೆ **12 ವಾರಗಳ ಪ್ರಸೂತಿ ರಜೆ** ನೀಡಲಾಗುತ್ತದೆ【HR_POLICY.pdf, page 3】."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "മെറ്റേണിറ്റി ലീവ് എത്ര ആഴ്ച ലഭിക്കും?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "സ്ത്രീ ജീവനക്കാരന്‍ ലഭിക്കുന്ന **Maternity Leave** ഇതാണു്:\n\n- **പരമാവധി 26 ആഴ്ച (180 ദിവസം)** വരെ പെയ്ഡ് ലീവ്.  \n- ജനനത്തിന് ശേഷം കുറഞ്ഞത് **6 ആഴ്ച** വേണം എടുത്തത്.  \n- ഇതിനുമുമ്പ് രണ്ട് കൂടാതെ കൂടുതല്‍ കുട്ടികള്‍ ഉള്ള സ്ത്രീകള്‍ക്ക് **12 ആഴ്ച** മാത്രമേ ലഭിക്കൂ.  \n\n*(ഉദ്ധരണി: HR_POLICY.pdf, PDF page 3)*"
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "প্রসূতি ছুটি কত সপ্তাহ পাওয়া যায়?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "প্রসূতি (Maternity) ছুটির অধিকার সংক্রান্ত মূল তথ্য নিম্নরূপ:\n\n- **প্রথম ও দ্বিতীয় সন্তানের আগে**: মহিলা কর্মচারীরা সর্বোচ্চ **২৬ সপ্তাহ (১৮০ দিন)** পর্যন্ত **বেতনসহ Maternity Leave** পেতে পারেন। এর মধ্যে **ডেলিভারির পর কমপক্ষে ৬ সপ্তাহ** অবশ্যই নিতে হবে। 【HR_POLICY.pdf, পৃষ্ঠা 3】\n\n- **দুই বা ততোধিক সন্তানের মা**: যদি কোনো কর্মচারীর দুই বা ততোধিক সন্তান থাকে, তবে তার Maternity Leave **১২ সপ্তাহ** পর্যন্ত সীমাবদ্ধ। 【HR_POLICY.pdf, পৃষ্ঠা 3】\n\n- **গর্ভপাত বা মেডিক্যাল টার্মিনেশন**: গর্ভপাত বা মেডিক্যাল টার্মিনেশনের ক্ষেত্রে **৬ সপ্তাহ** বেতনসহ Maternity Leave প্রদান করা হয়। 【HR_POLICY.pdf, পৃষ্ঠা 3】\n\nসুতরাং, সাধারণত **২৬ সপ্তাহ** পর্যন্ত ছুটি পাওয়া যায়, তবে দুই বা ততোধিক সন্তান থাকলে এটি **১২ সপ্তাহে কমে যায়**।"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "प्रसूति रजा किती आठवडे मिळते?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Maternity Leave** (प्रसूति रजा) बद्दल कंपनीची धोरणे खालीलप्रमाणे आहेत:\n\n- **सर्वसाधारणपणे** महिला कर्मचाऱ्यांना **जास्तीत जास्त 26 आठवडे (180 दिवस)** पेड Maternity Leave मिळते.  \n  *(स्रोत: HR_POLICY.pdf, पृष्ठ 3)*  \n\n- जर कर्मचाऱ्याला **आधीच दोन किंवा अधिक मुले** असतील, तर **12 आठवडे**च रजा मिळते.  \n  *(स्रोत: HR_POLICY.pdf, पृष्ठ 3)*  \n\n- **गर्भपात (miscarriage) किंवा वैद्यकीय गर्भसमाप्ती** झाल्यास **6 आठवडे** पेड Maternity Leave मिळते.  \n  *(स्रोत: HR_POLICY.pdf, पृष्ठ 3)*  \n\n- गर्भधारणेच्या, प्रसूतीच्या, लवकर जन्म, गर्भपात, वैद्यकीय समाप्ती किंवा ट्यूबेक्शन ऑपरेशनशी संबंधित **जटिलता** असल्यास **एक अतिरिक्त महिना (लगभग 4 आठवडे)** पेड रजा मिळू शकते.  \n  *(स्रोत: HR_POLICY.pdf, पृष्ठ 3)*  \n\n- रजा घेण्याच्या पात्रतेसाठी, कर्मचाऱ्याने **अपेक्षित प्रसूतीच्या तारखेच्या 12 महिन्यांपूर्वी कमीतकमी 80 दिवस** काम केलेले असणे आवश्यक आहे.  \n  *(स्रोत: HR_POLICY.pdf, पृष्ठ 3)*  \n\nहेच कंपनीच्या उपलब्ध दस्तऐवजांनुसार Maternity Leave चे नियम आहेत. इतर कोणतीही माहिती दस्तऐवजांमध्ये उपलब्ध नाही."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "maternity_leave",
+      "title": "Maternity leave",
+      "question": "પ્રસૂતિ રજા કેટલા અઠવાડિયાની મળે છે?",
+      "expected_facts": "Paid maternity leave is up to 26 weeks (180 days). A woman who already has two or more children is entitled to 12 weeks. She must have worked at least 80 days in the 12 months before the expected delivery.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        3
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- મહિલા કર્મચારીઓ માટે **Maternity Leave** ની મહત્તમ અવધિ **26 અઠવાડિયા (180 દિવસ)** છે. (સ્રોત: *HR_POLICY.pdf*, પેજ 3)  \n- જો કર્મચારી પાસે પહેલેથી બે અથવા તે કરતાં વધુ બાળકો હોય તો **12 અઠવાડિયા**ની Maternity Leave મળે છે. (સ્રોત: *HR_POLICY.pdf*, પેજ 3)"
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "Is paternity leave paid or unpaid?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Paternity leave is unpaid.**  \n\n- The policy states: “Paternity leave is unpaid leave given to a male employee when a child is born, duration of the leave is at the sole discretion of the management.” 【HR_POLICY.pdf, page 4】  \n\nNo other document provides a different entitlement, so the company’s policy treats paternity leave as an unpaid leave type."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "क्या पितृत्व अवकाश वेतन सहित है या बिना वेतन?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Paternity Leave** बिना वेतन (unpaid) दिया जाता है। यह छुट्टी बच्चे के जन्म पर पुरुष कर्मचारी को प्रदान की जाती है और इसकी अवधि प्रबंधन के विवेक पर निर्भर करती है【HR_POLICY.pdf, पृष्ठ 4】."
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "பேட்டர்னிட்டி லீவ் சம்பளத்துடன் கூடியதா, இல்லையா?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "పితృత్వ సెలవు జీతంతో ఇస్తారా, లేక జీతం లేకుండా?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Paternity Leave** జీతం లేకుండా (unpaid) ఇస్తారు.\n\n- ఇది పురుష ఉద్యోగి ఒక బిడ్డ పుట్టినప్పుడు ఇవ్వబడే **unpaid leave**.  \n- సెలవు వ్యవధి మ్యానేజ్‌మెంట్ వికల్పంగా నిర్ణయించబడుతుంది.\n\n**సూచన:** HR_POLICY.pdf, PDF page 4."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "ಪಿತೃತ್ವ ರಜೆ ಸಂಬಳದೊಂದಿಗೆಯೇ, ಅಥವಾ ಸಂಬಳವಿಲ್ಲದೆಯೇ?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Paternity leave** ಸಂಬಳವಿಲ್ಲದೆ (unpaid) ಆಗಿರುತ್ತದೆ. ಇದು ಪುರುಷ ಉದ್ಯೋಗಿಗೆ ಮಗುವಿನ ಜನನದ ಸಮಯದಲ್ಲಿ ನೀಡಲಾಗುವ ರಜೆ이며, ಅದರ ಅವಧಿಯನ್ನು ನಿರ್ವಹಣೆಯೇ ನಿರ್ಧರಿಸುತ್ತದೆ【HR_POLICY.pdf, ಪುಟ 4】."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "പാറ്റേണിറ്റി ലീവ് ശമ്പളത്തോടുകൂടിയാണോ, അല്ലെങ്കിൽ ശമ്പളമില്ലാത്തതാണോ?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "പാറ്റേണിറ്റി ലീവ് **ശമ്പളമില്ലാത്ത (unpaid) விடுப்பு** ആണ്.  \n- ഇത് ഒരു പുരുഷ ജീവനക്കാരന്‍ കുട്ടി ജനിക്കുമ്പോള്‍ നല്‍കപ്പെടുന്ന അവധി이며, അവധി ദൈര്‍ഘ്യം മാനേജ്മെന്റ്‌യുടെ ഏകപക്ഷീയ തീരുമാനത്തിലാണ് ( **HR_POLICY.pdf**, പേജ് 4 )."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "পিতৃত্ব ছুটি কি বেতনসহ, না বেতনহীন?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "पितृत्व रजा पगारी आहे की बिनपगारी?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "पितृत्व रजा (Paternity Leave) **बिनपगारी** (unpaid) आहे.  \n\n- स्रोत: *HR_POLICY.pdf*, पृष्ठ 4, विभाग “General” – “Paternity leave is unpaid leave given to a male employee when a child is born…”【Document 1】."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "paternity_leave",
+      "title": "Paternity leave",
+      "question": "પિતૃત્વ રજા પગાર સાથે છે કે પગાર વગર?",
+      "expected_facts": "Paternity leave is unpaid. It is given to a male employee when a child is born. The duration is at the sole discretion of management.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "પિતૃત્વ રજા (Paternity Leave) **પગાર‑વગરની (unpaid) રજા** છે. આ રજા પુત્ર અથવા દીકરીના જન્મ સમયે પુરૂષ કર્મચારીઓને આપવામાં આવે છે અને તેનો સમયગાળો મેનેજમેન્ટની એકમાત્ર સુવિધા મુજબ નક્કી થાય છે【HR_POLICY.pdf, page 4】."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "What is the work from home policy?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Work‑from‑Home Policy**\n\n- Eligible employees may be permitted to work from home **on a case‑by‑case basis**, depending on the nature of their work.  \n- The specific conditions for any work‑from‑home arrangement are **mutually agreed** between the employer and the employee.\n\n*Source: HR_POLICY.pdf, page 4 (General section).*"
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "घर से काम करने की नीति क्या है?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**घर से काम (Work from home) नीति**\n\n- कंपनी **केस‑टू‑केस आधार** पर उन **योग्य (Eligible) कर्मचारियों** को घर से काम करने की अनुमति दे सकती है।  \n- इस अनुमति का निर्णय **काम की प्रकृति** पर निर्भर करता है।  \n- घर से काम करने की शर्तें **नियोक्ता और कर्मचारी के बीच आपसी समझौते** द्वारा तय की जाती हैं।  \n\n*(स्रोत: *HR_POLICY.pdf*, पृष्ठ 4, सेक्शन General)*"
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "வீட்டிலிருந்து வேலை செய்வதற்கான கொள்கை என்ன?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Work from Home (வீட்டிலிருந்து வேலை)**  \n\n- நிறுவனத்தால் **Eligibility (தகுதியுடைய)** ஊழியர்கள், வேலைச் செயல்முறைக்கு ஏற்ப **case‑to‑case basis** (ஒவ்வொரு வழக்கிற்கும்) வீட்டிலிருந்து வேலை செய்ய அனுமதி பெறலாம்.  \n- Work from Home‑க்கு உட்பட்ட நிபந்தனைகள், **நிறுவனமும் ஊழியரும் ஒன்றாக ஒப்பந்தம் செய்து** தீர்மானிக்கப்படுகின்றன.  \n\n**மூலம்:** *HR_POLICY.pdf*, பக்கம் 4, Section: General."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "ఇంటి నుండి పని చేయడం గురించిన విధానం ఏమిటి?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "ಮನೆಯಿಂದ ಕೆಲಸ ಮಾಡುವ ನೀತಿ ಏನು?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**ಮನೆಯಿಂದ ಕೆಲಸ ಮಾಡುವ (Work from home) ನೀತಿ**\n\n- ಕಂಪನಿಯು **Eligible Employees** (ಅನುಗುಣವಾದ ಉದ್ಯೋಗಿಗಳು)‌ಗೆ, ಕೆಲಸದ ಸ್ವರೂಪದ ಮೇಲೆ ಅವಲಂಬಿಸಿ, ಪ್ರತಿ ಪ್ರಕರಣದ ಆಧಾರದ ಮೇಲೆ **Work from home** ಅನುಮತಿಸಬಹುದು.  \n- ಈ ವ್ಯವಸ್ಥೆಗೆ ಸಂಬಂಧಿಸಿದ ಶರತ್ತುಗಳು ಉದ್ಯೋಗದಾತ ಮತ್ತು ಉದ್ಯೋಗಿ ನಡುವೆ ಪರಸ್ಪರ ಒಪ್ಪಿಗೆಯ ಮೂಲಕ ನಿರ್ಧರಿಸಲಾಗುತ್ತದೆ.  \n\n*ಮೂಲ: **HR_POLICY.pdf**, ಪೇಜ್ 4*"
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "വീട്ടിൽ നിന്ന് ജോലി ചെയ്യുന്നതിനുള്ള നയം എന്താണ്?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Work from home**:  \n  - കമ്പനി, ജോലിയുടെ സ്വഭാവം അനുസരിച്ച്, “Eligible Employees”‑ക്ക് case‑to‑case അടിസ്ഥാനത്തിൽ വീട്ടിൽ നിന്ന് ജോലി ചെയ്യാൻ അനുവദിക്കാം.  \n  - ഇത്തരത്തിലുള്ള Work from home നിയമങ്ങള്‍ തൊഴിൽദാതാവിനും ജീവനക്കാരനും തമ്മില്‍ പരസ്പര സമ്മതം പാലിച്ച് നിശ്ചയിക്കപ്പെടും.  \n\n**മൂലവിവരം**: HR_POLICY.pdf, പേജ് 4, Section General."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "বাড়ি থেকে কাজ করার নীতি কী?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "- **Work from home**: নিয়োগকর্তা প্রয়োজন ও কাজের ধরণের ওপর ভিত্তি করে, যোগ্য কর্মচারীদেরকে **কেস টু কেস বেসিসে** বাড়ি থেকে কাজ করার অনুমতি দিতে পারেন।  \n- এই কাজের শর্তাবলী নিয়োগকর্তা ও কর্মচারীর মধ্যে পারস্পরিক সম্মতিতে নির্ধারিত হবে।  \n\n*উৎস: HR_POLICY.pdf, পৃষ্ঠা 4*"
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "घरातून काम करण्याचे धोरण काय आहे?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**Work from home**: कंपनी पात्र कर्मचार्‍यांना (Eligible Employees) कामाच्या स्वरूपावर अवलंबून केस‑टू‑केस आधारावर घरातून काम करण्याची परवानगी देऊ शकते. या कामाच्या अटी दोन्ही पक्षांच्या परस्पर सहमतीने ठरवल्या जातील.  \n\n*स्रोत: HR_POLICY.pdf, पृष्ठ 4*"
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "work_from_home",
+      "title": "Work-from-home policy",
+      "question": "ઘરેથી કામ કરવાની નીતિ શું છે?",
+      "expected_facts": "Eligible employees may be allowed to work from home case by case, depending on the nature of the work. Conditions are mutually agreed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        4
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": true,
+      "answer_factually_correct": true,
+      "citations_present_and_correct": true,
+      "answer_error": null,
+      "answer": "**કાર્યસ્થળેથી કામ કરવાની નીતિ** (Work from home) :\n\n- કંપની **Eligibility** ધરાવતા કર્મચારીઓ માટે, કામની પ્રકૃતિ પર આધારિત, **case‑to‑case basis** પર ઘરેથી કામ કરવાની મંજૂરી આપી શકે છે.  \n- ઘરેથી કામ કરવા માટેની શરતો **નિયોજક અને કર્મચારી વચ્ચે પરસ્પર સહમતીથી** નક્કી કરવામાં આવશે.\n\n*સ્રોત*: HR_POLICY.pdf, પેજ 4."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "When is a medical certificate required for sick leave?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "बीमार छुट्टी के लिए चिकित्सा प्रमाणपत्र कब लगाना होता है?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "நோய் விடுப்புக்கு மருத்துவ சான்றிதழ் எப்போது தேவை?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "అనారోగ్య సెలవుకు వైద్య సర్టిఫికేట్ ఎప్పుడు అవసరం?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "ಅನಾರೋಗ್ಯ ರಜೆಗೆ ವೈದ್ಯಕೀಯ ಪ್ರಮಾಣಪತ್ರ ಯಾವಾಗ ಬೇಕು?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "അസുഖാവധിക്ക് മെഡിക്കൽ സർട്ടിഫിക്കറ്റ് എപ്പോൾ വേണം?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "অসুস্থতার ছুটিতে মেডিকেল সার্টিফিকেট কখন লাগে?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "रुग्ण रजेसाठी वैद्यकीय प्रमाणपत्र कधी लागते?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "medical_certificate",
+      "title": "Medical certificate requirements",
+      "question": "બીમારીની રજા માટે તબીબી પ્રમાણપત્ર ક્યારે જોઈએ?",
+      "expected_facts": "For sick leave absences exceeding 2 or 3 days, a medical certificate usually needs to be enclosed.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        2
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "Does leave need approval before an employee takes it?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "छुट्टी लेने से पहले मंजूरी लेनी पड़ती है क्या?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "விடுப்பு எடுப்பதற்கு முன் அனுமதி பெற வேண்டுமா?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "సెలవు తీసుకునే ముందు ఆమోదం తీసుకోవాలా?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "ರಜೆ ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಅನುಮೋದನೆ ಪಡೆಯಬೇಕೇ?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "അവധി എടുക്കുന്നതിന് മുൻപ് അനുമതി വേണോ?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "ছুটি নেওয়ার আগে অনুমোদন নিতে হয় কি?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "रजा घेण्यापूर्वी मंजूरी घ्यावी लागते का?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "leave_approval",
+      "title": "Leave approval",
+      "question": "રજા લેતા પહેલાં મંજૂરી લેવી પડે છે?",
+      "expected_facts": "The employee must apply for leave and take approval, except when advance approval could not be taken, usually for casual or sick leave. Approval is at the manager's discretion and can be refused.",
+      "expected_source": "HR_POLICY.pdf",
+      "expected_pages": [
+        1
+      ],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 4
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "How many days of adoption leave does the policy provide?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 3
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "hi",
+      "language_name": "Hindi",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "नीति में गोद लेने की छुट्टी कितने दिन की है?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ta",
+      "language_name": "Tamil",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "கொள்கையில் தத்தெடுப்பு விடுப்பு எத்தனை நாள்?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "te",
+      "language_name": "Telugu",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "పాలసీలో దత్తత సెలవు ఎన్ని రోజులు?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "kn",
+      "language_name": "Kannada",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "ನೀತಿಯಲ್ಲಿ ದತ್ತು ರಜೆ ಎಷ್ಟು ದಿನ?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "നയത്തിൽ ദത്തെടുക്കൽ അവധി എത്ര ദിവസമാണ്?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "bn",
+      "language_name": "Bengali",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "নীতিতে দত্তক ছুটি কতদিন?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "mr",
+      "language_name": "Marathi",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "धोरणात दत्तक रजा किती दिवसांची आहे?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    },
+    {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "topic": "not_in_policy",
+      "title": "Information not in the policy",
+      "question": "નીતિમાં દત્તક રજા કેટલા દિવસની છે?",
+      "expected_facts": "Adoption leave is not stated in HR_POLICY.pdf. The assistant must say the information was not found and must not invent a day count.",
+      "expected_source": null,
+      "expected_pages": [],
+      "retrieval_returned_correct_source": true,
+      "retrieved_sources": [
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 1
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        },
+        {
+          "source": "HR_POLICY.pdf",
+          "page": 2
+        }
+      ],
+      "answer_used_requested_language": null,
+      "answer_factually_correct": null,
+      "citations_present_and_correct": null,
+      "answer_error": "chat_request_failed",
+      "answer": "Evaluation error: Sorry, the chat request failed. Please try again."
+    }
+  ],
+  "voice": [
+    {
+      "language": "en",
+      "spoken_question": "How many casual leave days is an employee entitled to in a year?",
+      "stt_supported": true,
+      "stt_language_code": "en-IN",
+      "stt_format": "transcribe",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "en-IN",
+      "tts_voice": "Pranav"
+    },
+    {
+      "language": "hi",
+      "spoken_question": "एक साल में कर्मचारी को कितने दिन की कैजुअल लीव मिलती है?",
+      "stt_supported": true,
+      "stt_language_code": "hi-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "hi-IN",
+      "tts_voice": "Deepak"
+    },
+    {
+      "language": "ta",
+      "spoken_question": "ஒரு வருடத்திற்கு எத்தனை நாள் கேஷுவல் லீவ் கிடைக்கும்?",
+      "stt_supported": true,
+      "stt_language_code": "ta-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "ta-IN",
+      "tts_voice": "Nalini"
+    },
+    {
+      "language": "te",
+      "spoken_question": "ఒక సంవత్సరానికి ఎన్ని రోజుల క్యాజువల్ లీవ్ హక్కు ఉంటుంది?",
+      "stt_supported": true,
+      "stt_language_code": "te-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "te-IN",
+      "tts_voice": "Suhana"
+    },
+    {
+      "language": "kn",
+      "spoken_question": "ಒಂದು ವರ್ಷಕ್ಕೆ ಎಷ್ಟು ದಿನ ಕ್ಯಾಶುವಲ್ ಲೀವ್ ಸಿಗುತ್ತದೆ?",
+      "stt_supported": true,
+      "stt_language_code": "kn-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "kn-IN",
+      "tts_voice": "Saanvi"
+    },
+    {
+      "language": "ml",
+      "spoken_question": "ഒരു വർഷത്തിൽ എത്ര ദിവസം കാഷ്വൽ ലീവ് ലഭിക്കും?",
+      "stt_supported": true,
+      "stt_language_code": "ml-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "ml-IN",
+      "tts_voice": "Reshma"
+    },
+    {
+      "language": "bn",
+      "spoken_question": "এক বছরে কতদিন ক্যাজুয়াল ছুটি পাওয়া যায়?",
+      "stt_supported": true,
+      "stt_language_code": "bn-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "bn-IN",
+      "tts_voice": "Kirra"
+    },
+    {
+      "language": "mr",
+      "spoken_question": "एका वर्षात किती दिवस कॅज्युअल रजा मिळते?",
+      "stt_supported": true,
+      "stt_language_code": "mr-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "mr-IN",
+      "tts_voice": "Zahira"
+    },
+    {
+      "language": "gu",
+      "spoken_question": "એક વર્ષમાં કેટલા દિવસની કેઝ્યુઅલ રજા મળે છે?",
+      "stt_supported": true,
+      "stt_language_code": "gu-IN",
+      "stt_format": "verbatim",
+      "sample_transcript_matches_language": true,
+      "tts_supported": true,
+      "tts_language_code": "gu-IN",
+      "tts_voice": "Falak"
+    },
+    {
+      "language": "or",
+      "spoken_question": null,
+      "stt_supported": false,
+      "stt_language_code": null,
+      "stt_format": null,
+      "sample_transcript_matches_language": false,
+      "tts_supported": false,
+      "tts_language_code": null,
+      "tts_voice": null,
+      "note": "Not an interface language. Gnani does not list this language."
+    },
+    {
+      "language": "ur",
+      "spoken_question": null,
+      "stt_supported": false,
+      "stt_language_code": null,
+      "stt_format": null,
+      "sample_transcript_matches_language": false,
+      "tts_supported": false,
+      "tts_language_code": null,
+      "tts_voice": null,
+      "note": "Not an interface language. Gnani does not list this language."
+    }
+  ]
+}
