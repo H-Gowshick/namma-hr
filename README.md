@@ -1,4 +1,5 @@
 # Namma HR
+live link: https://namma-hr.onrender.com/
 
 Multilingual, voice-first HR policy assistant. Employees ask questions in the selected language. Answers come from the uploaded policy PDF through retrieval, and each answer can show the passage and page that supported it.
 
