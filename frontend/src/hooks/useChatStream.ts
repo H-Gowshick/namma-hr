@@ -115,6 +115,7 @@ export function useChatStream({
           message: requestMessages,
           language: selectedLanguage,
         }),
+        signal: AbortSignal.timeout(90000),
       });
 
       if (!response.ok) {
@@ -228,7 +229,16 @@ export function useChatStream({
       console.error("CHAT STREAM ERROR:", err);
       reveal.cancel();
 
-      setError(err instanceof Error ? err.message : "Something went wrong.");
+      const timedOut =
+        err instanceof DOMException &&
+        (err.name === "TimeoutError" || err.name === "AbortError");
+      setError(
+        timedOut
+          ? "The answer took too long. Please try the question again."
+          : err instanceof Error
+            ? err.message
+            : "Something went wrong.",
+      );
 
       setMessages((previous) =>
         previous.filter(

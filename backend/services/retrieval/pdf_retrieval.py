@@ -3,7 +3,8 @@ import re
 from pathlib import Path
 
 import chromadb
-from sentence_transformers import SentenceTransformer
+
+from services.retrieval.embedder import encode_one
 
 logger = logging.getLogger("app.retrieval")
 
@@ -16,14 +17,6 @@ CHROMA_PATH = BASE_DIR / "chroma_data"
 
 COLLECTION_NAME = "epa_documents"
 MODEL_NAME = "all-MiniLM-L6-v2"
-
-# --------------------------------------------------
-# Load embedding model
-# --------------------------------------------------
-
-logger.info("Loading embedding model: %s", MODEL_NAME)
-
-model = SentenceTransformer(MODEL_NAME)
 
 # --------------------------------------------------
 # Connect to persistent ChromaDB
@@ -185,16 +178,13 @@ def retrieve(query: str, top_k: int = 4) -> list[dict]:
         return []
 
     # Generate query embedding.
-    query_embedding = model.encode(
-        query,
-        normalize_embeddings=True,
-    )
+    query_embedding = encode_one(query)
 
     # Retrieve additional candidates before reranking.
     candidate_count = min(document_count, max(top_k * 4, 8))
 
     results = collection.query(
-        query_embeddings=[query_embedding.tolist()],
+        query_embeddings=[query_embedding],
         n_results=candidate_count,
         include=["documents", "metadatas", "distances"],
     )

@@ -14,8 +14,8 @@ const MAX_RECORDING_SECONDS = 12;
 const PCM_FRAME_BYTES = 1024;
 const FRAME_SAMPLES = PCM_FRAME_BYTES / 2;
 const FRAME_INTERVAL_MS = 32;
-const REST_TIMEOUT_MS = 18000;
-const STREAM_TIMEOUT_MS = 18000;
+const REST_TIMEOUT_MS = 45000;
+const STREAM_TIMEOUT_MS = 45000;
 const SILENCE_THRESHOLD = 0.012;
 
 type VoicePhase = "idle" | "recording" | "processing" | "transcribed" | "error";
@@ -484,7 +484,7 @@ export default function VoiceRecorder({
       await new Promise<void>((resolve, reject) => {
         const openTimer = setTimeout(() => {
           reject(new Error("Realtime speech connection timed out."));
-        }, 8000);
+        }, 20000);
 
         ws!.onopen = () => {
           clearTimeout(openTimer);
